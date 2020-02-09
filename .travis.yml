@@ -1,0 +1,15 @@
+sudo: false
+
+language: node_js
+node_js:
+  - 9
+
+branches:
+  only:
+    - master
+
+deploy:
+  provider: heroku
+  app: th-test01
+  api_key:
+    secure: "f0baf9ea-916b-4b5b-a37e-b781fe12b785"
