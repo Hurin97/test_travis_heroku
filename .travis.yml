@@ -10,6 +10,6 @@ branches:
 
 deploy:
   provider: heroku
-  app: th-test01
+  app: th001
   api_key:
-    secure: "f0baf9ea-916b-4b5b-a37e-b781fe12b785"
+    secure: "9c1eb9cb-8e12-4608-9dcc-e499d759e81b"
