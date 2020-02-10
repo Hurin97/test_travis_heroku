@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Follow the white rabbit...
+          Follow the white rabbit ...
         </a>
 
       </header>
